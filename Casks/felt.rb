@@ -1,8 +1,8 @@
 cask "felt" do
-  version "0.1.0"
-  sha256 "df3ea9a8c50e873fd667cf877f1b0cc968ecfae84256b730dc739ab21df13671"
+  version "0.1.1"
+  sha256 "0ae2038d234d9e7a69cf40dbbcb83934c91a378128738dd87d29a2cb41cb6f18"
 
-  url "https://felt-5w3.pages.dev/downloads/Felt-#{version}-macos-universal.zip"
+  url "https://felt-dist.pages.dev/downloads/Felt-#{version}-macos-universal.zip"
   name "Felt"
   desc "Quiet, featherweight markdown writing instrument"
   homepage "https://felt-5w3.pages.dev/"
