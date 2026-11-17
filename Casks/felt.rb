@@ -1,6 +1,6 @@
 cask "felt" do
-  version "0.1.1"
-  sha256 "0ae2038d234d9e7a69cf40dbbcb83934c91a378128738dd87d29a2cb41cb6f18"
+  version "0.1.2"
+  sha256 "68522d6552c2e9d341faa0c992129d15f0f59bcc1167e7ee10971e50d4780fc6"
 
   url "https://felt-dist.pages.dev/downloads/Felt-#{version}-macos-universal.zip"
   name "Felt"
