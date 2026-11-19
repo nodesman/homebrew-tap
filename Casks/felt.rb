@@ -7,7 +7,7 @@ cask "felt" do
   desc "Quiet, featherweight markdown writing instrument"
   homepage "https://felt.aramudan.dev/"
 
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
 
   app "Felt.app"
 
