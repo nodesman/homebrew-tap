@@ -6,7 +6,9 @@ Official Homebrew tap for native desktop apps and developer tools by Nodesman.
 
 | App | Install | Description |
 | :--- | :--- | :--- |
-| **Felt** | `brew install --cask nodesman/tap/felt` | Quiet, featherweight native C++ / Qt 6 markdown writing instrument ([website](https://felt.aramudan.dev/)) |
+| **Felt** | `brew tap nodesman/tap && brew install --cask --no-quarantine nodesman/tap/felt` | Quiet, featherweight native C++ / Qt 6 markdown writing instrument ([website](https://felt.aramudan.dev/)) |
+
+> Early macOS builds are not yet notarised, so `--no-quarantine` skips the first-launch Gatekeeper prompt.
 
 ## Upgrading
 
