@@ -1,6 +1,6 @@
 cask "felt" do
-  version "0.1.3"
-  sha256 "4b9e81385771017f2b9806f9998981da030c15b94347cd459929b4489bbb1f19"
+  version "0.1.4"
+  sha256 "2c0db7a2034a5e5508e052221a48726179532348d24f62e6c0b6d3cfa3d8c84e"
 
   url "https://felt.aramudan.dev/downloads/Felt-#{version}-macos-universal.zip"
   name "Felt"
